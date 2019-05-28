@@ -1,0 +1,33 @@
+-> Line removed
+-> Line removed
+-> Line removed
+
+Selected Experiences and Essential Skills:
+* Pre-qualified, and followed-up with prospective clients; 
+* Interviewed clients to determine what kinds of properties they were seeking and generated lists meeting those requirements from available properties
+* Set and managed appointments to show homes to prospective clients
+*  Accurately documented all financial transactions
+* Significant computer and Internet skills
+* Able to work with a team or alone
+* Solid knowledge on internet marketing and techniques
+
+
+
+Work History (Most recent 5+ years):
+* Yorisi LLC, New York, 10/2017 - Present 
+* Nocnex LLC, New York, 06/2017- Present 
+* Winzone Realty, Inc. New York, 10/2016- Present 
+* Rideshare Services (Uber, Lyft, Juno, and more) New York, 11/2016- Present 
+* Red Sparrow Realty Group, Inc. New York, 03/2016-10/2016 
+* Yellow Cabs (Taxi management companies) New York, 08/2012- 03/2016 
+
+Education:
+Medgar Evers College, City University of New York, Brooklyn, New York
+Bachelor of Science, Major in Business, Concentration in Finance, 
+Graduated with honor: Cum Laude, June 2010
+
+Additional Information:
+* Licensed Real Estate Salesperson, New York, 2016
+* CBR (Certified Buyer Representative) designation, New York, 2017
+* Willing to relocate and / or willing to travel most of the time
+* Bilingual English and French.
