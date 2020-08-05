@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Eric Kouassi",
+    "occupation": "YORISI LLC | Founder and Web Developer",
+    "description": "Self-taught Web developer - Freelancer - Self-employed",
+    "image": "profilepic.jpg",
+    "bio": "Add you text here.",
+    "contactmessage": "Add you text here.",
+    "email": "hello@erickouassi.com",
+    "phone": "646-552-3666",
+    "address": {
+      "street": "106-02 101 Ave #130",
+      "city": "Ozone Park",
+      "state": "NY",
+      "zip": "11416"
+    },
+    "website": "http://www.erickouassi.com",
+    "resumedownload": "http://erickouassi.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/eric.kouassi/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/eric_kouassi",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/erickouassi",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/eric_kouassi",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/erickouassi",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com/eric_kouassi1",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Add you text here.",
+    "education": [
+      {
+        "school": "Medgar Evers College (CUNY)",
+        "degree": "Bachelor Degree in Business administration",
+        "graduated": "june 2010",
+        "description": "Add you text here."
+      },
+      {
+        "school": "Add you text here.",
+        "degree": "Add you text here.1",
+        "graduated": "Add you text here.",
+        "description": "Add you text here."
+      }
+    ],
+    "work": [
+      {
+        "company": "Yorisi LLC",
+        "title": "Founder and Web Developer",
+        "years": "October 2017 - Present",
+        "description": "Add you text here."
+      },
+      {
+        "company": "Self Employed",
+        "title": "Owner Operator",
+        "years": "August 2012 - Present",
+        "description": "Add you text here."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "88%"
+      },
+      {
+        "name": "Api",
+        "level": "45%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "D3.js",
+        "level": "65%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Add you text here.",
+        "category": "Add you text here.",
+        "image": "image.jpg",
+        "url": "link"
+      },
+      {
+        "title": "Add you text here.",
+        "category": "Add you text here.",
+        "image": "image.jpg",
+        "url": "link"
+      },
+      {
+        "title": "Add you text here.",
+        "category": "Add you text here.",
+        "image": "image.jpg",
+        "url": "link"
+      },
+      {
+        "title": "Add you text here.",
+        "category": "Add you text here.",
+        "image": "image.jpg",
+        "url": "link"
+      },
+      {
+        "title": "Add you text here.",
+        "category": "Add you text here.",
+        "image": "image.jpg",
+        "url": "link"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Add you text here.",
+        "user": "Add you text here."
+      },
+      {
+        "text": "Add you text here.",
+        "user": "Add you text here."
+      }
+    ]
+  }
+}
